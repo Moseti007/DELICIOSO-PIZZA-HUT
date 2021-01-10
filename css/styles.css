@@ -41,7 +41,7 @@ body {
     line-height: 1.8;
 }
 #showcase {
-    background-image: url('../Assets/images/1.jpg');
+    background-image: url('../Assets/images/pizza.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -78,10 +78,10 @@ body {
 }
 #AboutUs {
     height: 40vh;
-    background-color: black;
+    background-color: white;
     background-size: cover;
     background-position: center;
-    color: honeydew;
+    color: black;
     display: flex;
     flex-direction: column;
     justify-content: center;

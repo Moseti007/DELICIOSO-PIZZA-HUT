@@ -53,14 +53,14 @@ body {
 }
 #showcase h1 {
     font-size: 60px;
-    color: honeydew;
+    color: black;
     font-family: 'Ultra', serif;
     
 }
 #showcase p {
     font-size: 25px;
     font-weight: bolder;
-    color: honeydew;
+    color: black;
 }
 #showcase .button {
     font-size: 20px;
